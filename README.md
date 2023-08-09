@@ -1,2 +1,2 @@
 # discuss
-Orchid discussion repository.
+Orchid discussion repository
